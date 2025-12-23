@@ -9,7 +9,7 @@ const About = () => {
           <div className="header-section">
             <span className="header-label">ABOUT US</span>
              <h2 className="header-title">
-              <strong> <span>UNITED BY </span>HERITAGE,
+              <strong> <span>UNITED BY </span>HERITAGE,<br />
               COMMITTED <span>TO</span> HUMANITY.</strong>
             </h2>
            </div>  

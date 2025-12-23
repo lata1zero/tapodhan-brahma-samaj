@@ -39,7 +39,7 @@ const Services = () => {
         <div className="header-section">
           <h4 className="header-label">SERVICES</h4>
           <h2 className="header-title">
-            <span>QUICK ACCESS TO ALL</span> 
+            <span>QUICK ACCESS TO ALL</span> <br/>
             <strong> ESSENTIAL COMMUNITY SERVICES</strong>
           </h2>
         </div>

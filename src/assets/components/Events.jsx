@@ -1,7 +1,7 @@
 import eventOne from '../images/event1.jpg';
 import eventTwo from '../images/event2.jpg';
 import eventThree from '../images/event3.jpg';
-import eventFour from '../images/event3.jpg';
+import eventFour from '../images/event4.jpg';
 
 const Events = () => {
   const events = [
